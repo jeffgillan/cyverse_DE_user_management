@@ -7,8 +7,6 @@
 
 User portal is at [https://user.cyverse.org/](https://user.cyverse.org). 
 
-<br/>
-
 #### Users
 In the _Users_ menu, you can look up any Cyverse user and add the _Services_ (e.g., DE Vice) they can access. 
 
