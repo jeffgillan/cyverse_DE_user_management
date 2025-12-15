@@ -18,7 +18,7 @@ For groups like ESIIL that are trying to track usage, best practices is make sur
 
 ## Discovery Environment User Management
 #### Admin >> Subscriptions
-This is where you can specify the Subscription for each user (Basic, Pro, Commercial) and specify the cpu hours and storage limits. 
+This is where you can specify the Subscription for each user (Basic, Pro, Commercial) and Quotas (cpu hours and storage limits). 
 
 <br/>
 
