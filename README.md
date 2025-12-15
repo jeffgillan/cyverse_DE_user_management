@@ -1,4 +1,4 @@
-# cyverse_DE_user_management
+# CyVerse Discovery Environment User Management
 
 <br/>
 <br/>
